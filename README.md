@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Hafiz+Ali+Ejaz;%F0%9F%94%AD+I’m+currently+working+on+Java+and+Kotlin;%F0%9F%8C%B1+Learning+advanced+Programming+Stuff;%E2%9A%A1+Firebase;%F0%9F%93%AB+How+to+reach+me%3A+hhafizaliejaz%40gmail.com" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=3498DB&center=true&vCenter=true&width=665&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Hafiz+Ali+Ejaz;%F0%9F%94%AD+I’m+currently+working+on+Kotlin;%F0%9F%8C%B1+Learning+advanced+Programming+Stuff;%E2%9A%A1+Firebase+Postman+MySql;%F0%9F%93%AB+How+to+reach+me%3A+hhafizaliejaz%40gmail.com" alt="Typing SVG" />
   </a>
 </div>
 
@@ -54,7 +54,7 @@
 <h2>📈 GitHub Stats:</h2>
 
 <div align="left">
-  <a href="https://github.com/Salmanhy074">
+  <a href="https://github.com/Ali-Ejaz3">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Ejaz3&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Ejaz3&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-Ejaz3&theme=2077" height="180em" />
