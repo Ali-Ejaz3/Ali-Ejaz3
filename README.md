@@ -85,4 +85,4 @@
 Don't forget to hit the :star: if you like this repo.
 
 <br>
-⭐️ Regards [MUHAMMAD SALMAN](https://github.com/Ali-Ejaz3)
+⭐️ Regards [Hafiz Ali Ejaz](https://github.com/Ali-Ejaz3)
