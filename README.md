@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=34495E&center=true&vCenter=true&width=665&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Hafiz+Ali+Ejaz;%F0%9F%94%AD+I’m+currently+working+on+Kotlin;%F0%9F%8C%B1+Learning+advanced+Programming+Stuff;%E2%9A%A1+Firebase+Postman+MySql;%F0%9F%93%AB+How+to+reach+me%3A+hhafizaliejaz%40gmail.com" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=1ABC9C&center=true&vCenter=true&width=665&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Hafiz+Ali+Ejaz;%F0%9F%94%AD+I’m+currently+working+on+Kotlin;%F0%9F%8C%B1+Learning+advanced+Programming+Stuff;%E2%9A%A1+Firebase+Postman+MySql;%F0%9F%93%AB+How+to+reach+me%3A+hhafizaliejaz%40gmail.com" alt="Typing SVG" />
   </a>
 </div>
 
